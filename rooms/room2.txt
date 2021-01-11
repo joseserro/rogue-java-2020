@@ -1,0 +1,13 @@
+#
+# 1 D room1.txt 1
+#
+WWWWWWWWWW
+W        W
+W        W
+W        W
+W        W
+W        W
+W        W
+W        W
+W        W
+W1WWWWWWWW
